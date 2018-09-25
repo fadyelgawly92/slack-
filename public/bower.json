@@ -1,0 +1,20 @@
+{
+  "name": "public",
+  "authors": [
+    "fadyelgawly92 <fadyraafatelgawly@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "components-font-awesome": "^5.0.6"
+  }
+}
